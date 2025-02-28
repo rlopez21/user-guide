@@ -1,0 +1,5 @@
+site_name: WEB DE PROGRAMACIÓN
+NAV: 
+- Inicio: index.md
+- about: about.md
+- Contacto: contacto.md
